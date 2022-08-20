@@ -15,7 +15,7 @@ pipeline {
                 echo 'Clone'
                 git branch: GIT_BRANCH, credentialsId: GIT_CRED_ID, url: GIT_URL
                 sh 'ls'
-                echo '와앙이이'
+                echo '와앙이이이'
             }
          }
     }
