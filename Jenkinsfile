@@ -17,7 +17,7 @@ pipeline {
                 sh 'ls'
                 sh 'cat Jenkinsfile'
                 sh 'docker image ls'
-                echo '와앙이이이'
+                echo '와앙이이이이'
             }
          }
     }
